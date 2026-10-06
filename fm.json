@@ -40,14 +40,12 @@
             "key": "宝宝在线",
             "name": "宝宝在线⁽ʰᵗᵐˡ⁾┃[HOME]",
             "type": 3,
-            "api": "csp_宝宝在线",
             "homePage": "./html/宝宝在线.html"
         },
         {
             "key": "裤佬",
             "name": "裤佬⁽ʰᵗᵐˡ⁾┃[HOME]",
             "type": 3,
-            "api": "csp_裤佬",
             "homePage": "./html/裤佬.html"
         },
      {
