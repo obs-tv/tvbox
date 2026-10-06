@@ -36,18 +36,6 @@
             "filter": 1,
             "homePage": "https://bili-1k4.pages.dev/"
         },
-        {
-            "key": "宝宝在线",
-            "name": "宝宝在线⁽ʰᵗᵐˡ⁾┃[HOME]",
-            "type": 3,
-            "homePage": "./html/宝宝在线.html"
-        },
-        {
-            "key": "裤佬",
-            "name": "裤佬⁽ʰᵗᵐˡ⁾┃[HOME]",
-            "type": 3,
-            "homePage": "./html/裤佬.html"
-        },
      {
             "name": "⚙️嗷呜┃[配置]",
             "key": "MyConfig",
