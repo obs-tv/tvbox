@@ -49,7 +49,7 @@
             "homePage": "./html/裤佬.html"
         },
      {
-            "name": "⚙️配置┃嗷呜",
+            "name": "⚙️嗷呜┃[配置]",
             "key": "MyConfig",
             "type": 3,
             "api": "csp_AAConfigAmns",
@@ -59,7 +59,7 @@
         },
         {
             "key": "FishConfig",
-            "name": "🍼┆设置┆摸鱼",
+            "name": "🍼┆摸鱼┆[配置]",
             "jar":"./jar/moyu.jar",
             "type": 3,
             "api": "csp_FishConfig"
