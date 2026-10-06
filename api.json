@@ -72,6 +72,74 @@
                 "ratio": 1.433
             }
         },
+                {
+            "key": "少儿教育",
+            "name": "🧒┆少儿┆教育",
+            "type": 3,
+            "jar":"./jar/moyu.jar",
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚┆小学┆课堂",
+            "type": 3,
+            "jar":"./jar/moyu.jar",
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "📐┆初中┆课堂",
+            "type": 3,
+            "jar":"./jar/moyu.jar",
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
+            }
+        },
+        {
+            "key": "高中教育",
+            "name": "🎓┆高中┆课堂",
+            "type": 3,
+            "jar":"./jar/moyu.jar",
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+            }
+        },
         {
             "key": "bl",
             "name": "🤪┆摆烂┆4K",
@@ -312,75 +380,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "genre": "shortdrama"
-        },
-
-        {
-            "name": "📚少儿┃教育",
-            "key": "BiliSer",
-            "type": 3,
-            "api": "csp_BiliAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "ext": {
-                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "name": "📚小学┃教育",
-            "key": "BiliXxue",
-            "type": 3,
-            "api": "csp_BiliAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "ext": {
-                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "name": "📚初中┃教育",
-            "key": "BiliCzong",
-            "type": 3,
-            "api": "csp_BiliAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "ext": {
-                "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "name": "📚高中┃教育",
-            "key": "BiliGzong",
-            "type": 3,
-            "api": "csp_BiliAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "ext": {
-                "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
         },
         {
             "name": "🔍短剧┃盘搜",
